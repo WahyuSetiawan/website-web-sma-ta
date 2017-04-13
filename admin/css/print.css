@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 11px;
+}
+.krs_box {
+    border: 1px solid #000;
+}
+.krs_box * {
+    padding: 0 1px;
+    text-align: left;
+}
+.krs_box td, .krs_box th {
+    border-bottom: 1px solid #000;
+    border-right: 1px solid #000;
+}
+.krs_box th {
+    font-size: 12px;
+}
+.tl {
+    padding-left: 10px;
+    text-align: left;
+}
+.tc {
+    text-align: center;
+}
+.tr {
+    text-align: right;
+}
+.tj {
+    text-align: justify;
+}
+.fb {
+    font-weight: bold;
+}
+.line {
+    border-bottom: 1px dashed #000;
+    clear: both;
+}
